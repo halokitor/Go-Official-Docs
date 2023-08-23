@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"example.com/greetings"
+	"Go-Official-Docs/greetings"
+
 	"rsc.io/quote"
 )
 

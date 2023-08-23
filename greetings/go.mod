@@ -1,3 +1,3 @@
-module example.com/greetings
+module Go-Official-Docs/greetings
 
 go 1.16
